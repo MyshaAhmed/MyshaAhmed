@@ -64,14 +64,14 @@
 
 
 <h2 align="left">About me</h2>
-###
+
 
 - 👩🏻‍💻 I’m currently working on **some web development projects**
 - 📖 I’m currently learning **frontend Development**
 - 🔭 I’m exploring **machine learning**.
 - 💻 I love creating **responsive and dynamic web applications**.
 - 🤔 I’m always looking to collaborate on exciting **open-source projects**.
-- 📫 How to reach me: [mysha9ahmed@example.com](mailto:mysha9ahmed@example.com).
+- 📫 How to reach me: [mysha9ahmed@gmail.com](mailto:mysha9ahmed@egmail.com).
 ###
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=myshaahmed&label=Visitors&" alt="myshaahmed" /> 
