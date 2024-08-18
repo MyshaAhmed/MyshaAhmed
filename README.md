@@ -9,11 +9,10 @@
 </br>
 </br>
 <div align="center">
-
-
-![photo_2024-08-19_01-26-07](https://github.com/user-attachments/assets/150664d5-342b-43f3-b6ea-c222eef1df39)
-
+  
+![photo_2024-08-19_01-45-31](https://github.com/user-attachments/assets/4fb33850-add0-40b3-99fd-81033109b1fb)
 </div>
+
 
 
 
