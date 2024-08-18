@@ -6,13 +6,24 @@
 
 
 </br>
+</br>
+</br>
+<div align="center">
 
-###
 
+![photo_2024-08-19_01-26-07](https://github.com/user-attachments/assets/150664d5-342b-43f3-b6ea-c222eef1df39)
+
+</div>
+
+
+
+</br>
 <h2 align="left">I code with</h2>
 
 ###
-
+</br>
+</br>
+</br>
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -44,6 +55,8 @@
 
 <h2 align="left">My Stats</h2>
 </br>
+</br>
+</br>
 <p align="center">
    <picture><img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=myshaahmed&theme=dark-minimalist&border_radius=5" alt="GitHub Streak"/></picture>
 <p/>
@@ -51,7 +64,6 @@
 
 
 <h2 align="left">About me</h2>
-
 ###
 
 - 👩🏻‍💻 I’m currently working on **some web development projects**
