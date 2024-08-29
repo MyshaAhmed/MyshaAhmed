@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate Computer Science student with a keen interest in problem solving, web development and machine learning. I'm currently diving into the world of web technologies, building cool projects and learning something new every day. Excited to connect, collaborate, and create amazing things with programming! 👩🏻‍💻🚀</p>
+<p align="left">I'm a passionate Computer Science student with a keen interest in problem solving, web development and machine learning. I'm currently diving into the world of web technologies, building cool projects and learning something new every day. Excited to connect, collaborate, and bring ideas to life with programming! 👩🏻‍💻🚀</p>
 
 
 </br>
