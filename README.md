@@ -53,12 +53,19 @@
 </br>
 
 <h2 align="left">My Stats</h2>
-</br>
-</br>
-</br>
+
 <p align="center">
-   <picture><img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=myshaahmed&theme=dark-minimalist&border_radius=5" alt="GitHub Streak"/></picture>
-<p/>
+
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myshaahmed&theme=github_dark" alt="Total Contributions"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myshaahmed&theme=dark-minimalist&border_radius=5" alt="GitHub Streak"/> <br>
+  <!-- GitHub Streak Stats -->
+ 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myshaahmed&theme=github_dark" alt="Activity Graph"/>
+
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=myshaahmed&theme=github_dark" alt="Streak-Like Card"/>
+  
+</p>
 </br>
 
 
