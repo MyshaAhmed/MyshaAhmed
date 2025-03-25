@@ -76,7 +76,7 @@
 - 📖 I’m currently learning **frontend Development**
 - 🔭 I’m exploring **machine learning**.
 - 💻 I love creating **responsive and dynamic web applications**.
-- 🤔 I’m always looking to collaborate on exciting **open-source projects**.
+- 🤔 I’m always looking forward to collaborate on exciting **open-source projects**.
 - 📫 How to reach me: [mysha9ahmed@gmail.com](mailto:mysha9ahmed@egmail.com).
 ###
 <div align="center">
